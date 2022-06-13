@@ -1,0 +1,63 @@
+*
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+body
+{
+
+}
+/* Navbar*/
+nav {
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 15px;
+    /* font-family: 'Roboto', sans-serif; */
+
+}
+
+
+.navbar .collapse ul li {
+    padding: 5px;
+}
+
+.navbar .collapse ul li a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* End Navbar */
+/* Covid Intro */
+.firstSection
+{
+    margin-bottom: 100px;
+}
+.firstSection .coronaIntro
+{
+    margin-bottom: 20px;
+}
+.firstSection .coronaIntro h1 {
+    font-weight: 900;
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.hProtect button {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 15px;
+}
+.hProtect
+{
+    margin-bottom: 15px;
+}
+/* End Covid Intro */
+/* covid symptomps */
+.fourthSection .container .row .card-deck .card {
+    height: 100%;
+}
